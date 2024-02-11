@@ -1,0 +1,23 @@
+a, h1, h3, h5, h6{
+    font-family: merienda;
+}
+.tapiserie{
+    background: url('../img/background.jpg');
+}
+h3{
+    color: #2F4073;
+}
+
+.carrusel {
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .carrusel img {
+    display: none;
+    width: 100%;
+  }
+  
+  .carrusel img.active {
+    display: block;
+  }
